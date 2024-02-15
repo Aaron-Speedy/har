@@ -16,5 +16,5 @@ For an easy way to write programs for `sintr`, see `dump.c`.
 
 ## Why is this public?
 I needed to have an additional public repo for a contest
-and I didn't want to make any super unfinished
-projects public.
+and I didn't want to make public any super unfinished
+projects.

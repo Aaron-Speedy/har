@@ -11,8 +11,8 @@
 
 int main(void) {
   uint16_t ops[] = {
-    // Break if read is 'q'
-    //
+    SET_A(3),
+    OUT_B,
   };
   write(1, ops, sizeof(ops));
 

@@ -1,5 +1,5 @@
 # `hemul`
-`hemul` is a tiny and unrealistic CPU emulator for fun.
+`hemul` is an emulator for the HACK CPU
 
 ## Quick start (POSIX)
 ```sh
